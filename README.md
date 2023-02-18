@@ -15,17 +15,12 @@ These instructions will get you a copy of the project up and running on your loc
 Node.js installed on your machine<br>
 Yarn package manager<br>
 Installing<br>
-Clone the repository to your local machine
 
-bash<br>
-Copy code<br>
+Clone the repository to your local machine
 ```
 git clone https://github.com/faresbrayek2/Weather-App-Vitejs.git
 ```
 Go to the project directory
-
-bash<br>
-Copy code
 ```
 cd Weather-App-Vitejs
 ```
@@ -36,8 +31,6 @@ Copy code
 yarn install
 ```
 Start the development server
-
-<br>Copy code
 ```
 yarn run dev
 ```
