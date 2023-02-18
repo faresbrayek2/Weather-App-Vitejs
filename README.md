@@ -6,8 +6,7 @@ A simple weather application that allows you to check the weather in any locatio
 <p align="center">
   <img src="https://i.ibb.co/R76qPR8/image.png" />
 </p>
-<br>
-*Getting Started*
+<h1>Getting Started</h1>
 ---
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
