@@ -24,7 +24,7 @@ Go to the project directory
 
 bash<br>
 Copy code
-```cd weather-app```
+```cd Weather-App-Vitejs```
 Install the required packages
 
 Copy code
