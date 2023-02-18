@@ -19,7 +19,7 @@ Clone the repository to your local machine
 
 bash<br>
 Copy code<br>
-```git clone https://github.com/YOUR_USERNAME/weather-app.git```
+```git clone https://github.com/faresbrayek2/Weather-App-Vitejs.git```
 Go to the project directory
 
 bash<br>
@@ -33,7 +33,7 @@ Start the development server
 
 <br>Copy code
 ```yarn run dev```
-Open your browser and go to http://localhost:3000 to see the app in action.
+Open your browser and go to http://127.0.0.1:5173/ to see the app in action.
 
 *Built With*
 ------
