@@ -19,20 +19,28 @@ Clone the repository to your local machine
 
 bash<br>
 Copy code<br>
-```git clone https://github.com/faresbrayek2/Weather-App-Vitejs.git```
+```
+git clone https://github.com/faresbrayek2/Weather-App-Vitejs.git
+```
 Go to the project directory
 
 bash<br>
 Copy code
-```cd Weather-App-Vitejs```
+```
+cd Weather-App-Vitejs
+```
 Install the required packages
 
 Copy code
-```yarn install```
+```
+yarn install
+```
 Start the development server
 
 <br>Copy code
-```yarn run dev```
+```
+yarn run dev
+```
 Open your browser and go to http://127.0.0.1:5173/ to see the app in action.
 
 *Built With*
