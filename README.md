@@ -1,11 +1,12 @@
 <h1>Weather App</h1><br>
 A simple weather application that allows you to check the weather in any location.<br>
 <p align="center">
-  <img src="https://i.ibb.co/R76qPR8/image.png" />
-</p>
-<p align="center">
   <img src="https://i.ibb.co/yX8ChVg/image.png" />
 </p>
+<p align="center">
+  <img src="https://i.ibb.co/R76qPR8/image.png" />
+</p>
+<br>
 *Getting Started*
 ---
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
