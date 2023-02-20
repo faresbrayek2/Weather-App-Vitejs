@@ -26,7 +26,6 @@ cd Weather-App-Vitejs
 ```
 Install the required packages
 
-Copy code
 ```
 yarn install
 ```
