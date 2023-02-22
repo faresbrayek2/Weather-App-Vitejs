@@ -25,7 +25,7 @@ const App = () => {
     setError(false);
     setWeather({});
     const city = e.target.elements.city.value;
-    const APIKey = "728b0ee6df5687559812bd3169ad77b7";
+    const APIKey = "a846d48e397bfc3a8ce746b7d420985e";
 
     if (city === "") return;
 
